@@ -18,5 +18,5 @@ Cook for your loved ones...!!😉
 
 
 <h1>Author</h1>
- <a href="https://linktr.ee/Ping_Unnati"> <b>Vaishnavi Gopisetty🙎</b></a>
+ <b>Vaishnavi Gopisetty🙎</b></a>
   
