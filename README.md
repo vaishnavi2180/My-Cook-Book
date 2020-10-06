@@ -7,7 +7,7 @@ Eat it...
 Enjoy it...
 Cook for your loved ones...!!😉
 <br>It is Responsive too, i.e you can view it on any device📱<br>
-<b><a href=" https://vaishnavi2180.github.io/My-Cook-Book/">VIEW HERE</a></b>
+
 
 
 <h1>Languages Used</h1>
