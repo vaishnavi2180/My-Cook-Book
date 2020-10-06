@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# 📍My Cook Book Website
 
-You can use the [editor on GitHub](https://github.com/vaishnavi2180/My-Cook-Book/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is a website in which you can find the recipes of various fast food and international dishes.
+You can look to this to
+Cook it...
+Eat it...
+Enjoy it...
+Cook for your loved ones...!!😉
+<br>It is Responsive too, i.e you can view it on any device📱<br>
+<b><a href=" https://vaishnavi2180.github.io/My-Cook-Book/">VIEW HERE</a></b>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<h1>Languages Used</h1>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>JavaScript</li>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vaishnavi2180/My-Cook-Book/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1>Author</h1>
+ <a href="https://linktr.ee/Ping_Unnati"> <b>Vaishnavi Gopisetty🙎</b></a>
+  
